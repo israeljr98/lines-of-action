@@ -21,7 +21,7 @@ The command line version operates via text commands. Here is a list of all avail
 * **quit**: Exits the game. <br> ![](loa_gifs/loa_quit.gif)
 
 ## GUI Version
-The GUI version operates via the mouse. In order to invoke it, a `--display` flag must be included when launching the program. <br> ![](loa_gifs/loa_display_start.gif)
+The GUI version operates via the mouse. In order to invoke it, a `--display` flag must be included when launching the program. <br> ![](loa_gifs/loa_display_start.gif) <br>
 Here is an overview of how it works:
 * **Moves**: A piece is moved by clicking and dragging it along the desired line of action. If a move is not legal, the board will remain unchanged. <br> ![](loa_gifs/loa_display_move.gif)
 * **Game**: The "Game" menu button houses two options: *New* and *Quit*.
